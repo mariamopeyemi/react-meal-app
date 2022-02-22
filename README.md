@@ -2,8 +2,7 @@
 
 ## This is a project built to showcase my understanding of react hooks and context API.
 The hooks to be used includes useState, useEffect, UseReducer.
-### Still in progress 
-### UI just completed
+### Still in progress/ UI just [completed] (https://the-foodies-home.netlify.app/)
 
 
 
