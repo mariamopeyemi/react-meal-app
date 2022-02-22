@@ -1,3 +1,12 @@
+# React Meal App
+
+## This is a project built to showcase my understanding of react hooks and context API.
+The hooks to be used includes useState, useEffect, UseReducer.
+### Still in progress 
+### UI just completed
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
